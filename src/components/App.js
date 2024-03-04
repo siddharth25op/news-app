@@ -6,7 +6,7 @@ import { Route, Routes } from "react-router-dom";
 
 const App = () => {
   const pagesize = 6;
-  const apiKey = process.env.REACT_APP_NEWS_API;
+  const apiKey = "8d96ca84457941f6aafda89cd6cbf70f";
   return (
     <div>
       <NavbarComponent />
